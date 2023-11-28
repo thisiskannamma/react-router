@@ -1,0 +1,38 @@
+.header{
+    text-align: center;
+    background-color: rgb(180, 236, 115);
+    padding:20px;
+}
+.navbar{
+    text-align: center;
+    width:50%;
+    margin-left: 35rem;
+}
+.navbar-brand{
+    margin-left: 50px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+a:hover{
+    text-decoration:none;
+    font-weight:bolder;
+}
+.row{
+    margin-top: 20px;
+    margin-left: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    float:left;
+}
+
+.card{
+    margin-left: 20px;
+    margin-top: 20px;
+    width:30rem !important;
+    height: 35rem;
+}
+img{
+    width:100%;
+    margin-top: 5px;
+}
